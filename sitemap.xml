@@ -1,21 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>https://ningpro.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>https://ningpro.github.io/posts/papermod/papermod-features/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>https://ningpro.github.io/fr/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://ningpro.github.io/tags/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>https://ningpro.github.io/fa/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://ningpro.github.io/posts/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>https://ningpro.github.io/tags/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ningpro.github.io/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ningpro.github.io/archives.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ningpro.github.io/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ningpro.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ningpro.github.io/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ningpro.github.io/search.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ningpro.github.io/series/</loc>
+  </url>
+  
+</urlset>
