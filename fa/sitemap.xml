@@ -3,28 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ningpro.github.io/myblog/fa/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ningpro.github.io/myblog/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://ningpro.github.io/myblog/fr/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://ningpro.github.io/myblog/fa/posts/markdown-syntax/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ningpro.github.io/myblog/fa/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -43,68 +22,7 @@
   </url>
   
   <url>
-    <loc>https://ningpro.github.io/myblog/fa/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ningpro.github.io/myblog/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://ningpro.github.io/myblog/fr/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://ningpro.github.io/myblog/fa/tags/css/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ningpro.github.io/myblog/fa/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ningpro.github.io/myblog/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://ningpro.github.io/myblog/fr/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://ningpro.github.io/myblog/fa/tags/html/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ningpro.github.io/myblog/fa/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ningpro.github.io/myblog/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://ningpro.github.io/myblog/fr/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://ningpro.github.io/myblog/fa/tags/markdown/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ningpro.github.io/myblog/fa/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -123,28 +41,7 @@
   </url>
   
   <url>
-    <loc>https://ningpro.github.io/myblog/fa/posts/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ningpro.github.io/myblog/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://ningpro.github.io/myblog/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://ningpro.github.io/myblog/fa/posts/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ningpro.github.io/myblog/fa/series/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -163,28 +60,7 @@
   </url>
   
   <url>
-    <loc>https://ningpro.github.io/myblog/fa/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ningpro.github.io/myblog/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://ningpro.github.io/myblog/fr/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://ningpro.github.io/myblog/fa/categories/syntax/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ningpro.github.io/myblog/fa/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -199,66 +75,6 @@
                 rel="alternate"
                 hreflang="fa"
                 href="https://ningpro.github.io/myblog/fa/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ningpro.github.io/myblog/fa/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ningpro.github.io/myblog/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://ningpro.github.io/myblog/fr/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://ningpro.github.io/myblog/fa/tags/themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ningpro.github.io/myblog/fa/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ningpro.github.io/myblog/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://ningpro.github.io/myblog/fr/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://ningpro.github.io/myblog/fa/categories/themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ningpro.github.io/myblog/fa/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ningpro.github.io/myblog/series/themes-guide/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://ningpro.github.io/myblog/fr/series/themes-guide/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://ningpro.github.io/myblog/fa/series/themes-guide/"
                 />
   </url>
   

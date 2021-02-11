@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://ningpro.github.io/myblog/sitemap.xml
