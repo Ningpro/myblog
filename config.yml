@@ -1,5 +1,5 @@
-baseURL: "https://ningpro.github.io/myblog/"
-title: PaperMod
+baseURL: "https://ningpro.github.io"
+title: 我是一只小菜鸟
 paginate: 5
 theme: PaperMod
 
