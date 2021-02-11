@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on PaperMod</title>
-    <link>https://ningpro.github.io/myblog/series/</link>
-    <description>Recent content in Series on PaperMod</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ningpro.github.io/myblog/series/index.xml" rel="self" type="application/rss+xml" />
+    <title>Series on 我是一只小菜鸟</title>
+    <link>https://ningpro.github.io/series/</link>
+    <description>Recent content in Series on 我是一只小菜鸟</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ningpro.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -3,78 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ningpro.github.io/myblog/fa/categories/</loc>
+    <loc>https://ningpro.github.io/fa/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ningpro.github.io/myblog/categories/"
+                href="https://ningpro.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ningpro.github.io/myblog/fr/categories/"
+                href="https://ningpro.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://ningpro.github.io/myblog/fa/categories/"
+                href="https://ningpro.github.io/fa/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://ningpro.github.io/myblog/fa/</loc>
+    <loc>https://ningpro.github.io/fa/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ningpro.github.io/myblog/"
+                href="https://ningpro.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ningpro.github.io/myblog/fr/"
+                href="https://ningpro.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://ningpro.github.io/myblog/fa/"
+                href="https://ningpro.github.io/fa/"
                 />
   </url>
   
   <url>
-    <loc>https://ningpro.github.io/myblog/fa/series/</loc>
+    <loc>https://ningpro.github.io/fa/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ningpro.github.io/myblog/series/"
+                href="https://ningpro.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ningpro.github.io/myblog/fr/series/"
+                href="https://ningpro.github.io/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://ningpro.github.io/myblog/fa/series/"
+                href="https://ningpro.github.io/fa/series/"
                 />
   </url>
   
   <url>
-    <loc>https://ningpro.github.io/myblog/fa/tags/</loc>
+    <loc>https://ningpro.github.io/fa/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ningpro.github.io/myblog/tags/"
+                href="https://ningpro.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ningpro.github.io/myblog/fr/tags/"
+                href="https://ningpro.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://ningpro.github.io/myblog/fa/tags/"
+                href="https://ningpro.github.io/fa/tags/"
                 />
   </url>
   

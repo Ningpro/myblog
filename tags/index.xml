@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on PaperMod</title>
-    <link>https://ningpro.github.io/myblog/tags/</link>
-    <description>Recent content in Tags on PaperMod</description>
+    <title>Tags on 我是一只小菜鸟</title>
+    <link>https://ningpro.github.io/tags/</link>
+    <description>Recent content in Tags on 我是一只小菜鸟</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ningpro.github.io/myblog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ningpro.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PaperMod</title>
-      <link>https://ningpro.github.io/myblog/tags/papermod/</link>
+      <link>https://ningpro.github.io/tags/papermod/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ningpro.github.io/myblog/tags/papermod/</guid>
+      <guid>https://ningpro.github.io/tags/papermod/</guid>
       <description></description>
     </item>
     
