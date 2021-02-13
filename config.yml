@@ -101,11 +101,11 @@ params:
     #         SiteVerificationTag: "XYZabc"
 
     assets:
-          favicon: "data:image/ico;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAA"
-          favicon16x16: "<data:image/ico;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAA>"
-          favicon32x32: "<data:image/ico;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAA>"
-          apple_touch_icon: "<data:image/ico;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAA>"
-          safari_pinned_tab: "<data:image/ico;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAA>"
+          favicon: "#"
+          favicon16x16: "#"
+          favicon32x32: "#"
+          apple_touch_icon: "#"
+          safari_pinned_tab: "#"
 
     # cover:
     #     hidden: true # hide everywhere but not in structured data
