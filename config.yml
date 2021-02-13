@@ -101,11 +101,11 @@ params:
     #         SiteVerificationTag: "XYZabc"
 
     assets:
-          favicon: "#"
-          favicon16x16: "#"
-          favicon32x32: "#"
-          apple_touch_icon: "#"
-          safari_pinned_tab: "#"
+          favicon: "🌟"
+          favicon16x16: "🌟"
+          favicon32x32: "🌟"
+          apple_touch_icon: "🌟"
+          safari_pinned_tab: "🌟"
 
     # cover:
     #     hidden: true # hide everywhere but not in structured data
