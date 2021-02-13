@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>我是一只小菜鸟</title>
-    <link>/</link>
+    <link>https://ningpro.github.io/</link>
     <description>Recent content on 我是一只小菜鸟</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ningpro.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Features</title>
-      <link>/posts/papermod/papermod-features/</link>
+      <link>https://ningpro.github.io/posts/papermod/papermod-features/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/papermod/papermod-features/</guid>
+      <guid>https://ningpro.github.io/posts/papermod/papermod-features/</guid>
       <description>Get known about All Features in PaperMod</description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>/archives.fr/</link>
+      <link>https://ningpro.github.io/archives.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/archives.fr/</guid>
+      <guid>https://ningpro.github.io/archives.fr/</guid>
       <description>archives</description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>/archives/</link>
+      <link>https://ningpro.github.io/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/archives/</guid>
+      <guid>https://ningpro.github.io/archives/</guid>
       <description>archives</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>/search/</link>
+      <link>https://ningpro.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/search/</guid>
+      <guid>https://ningpro.github.io/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SearchL2</title>
-      <link>/search.fr/</link>
+      <link>https://ningpro.github.io/search.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/search.fr/</guid>
+      <guid>https://ningpro.github.io/search.fr/</guid>
       <description></description>
     </item>
     

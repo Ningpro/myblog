@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 我是一只小菜鸟</title>
-    <link>/posts/</link>
+    <link>https://ningpro.github.io/posts/</link>
     <description>Recent content in Posts on 我是一只小菜鸟</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ningpro.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Features</title>
-      <link>/posts/papermod/papermod-features/</link>
+      <link>https://ningpro.github.io/posts/papermod/papermod-features/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/papermod/papermod-features/</guid>
+      <guid>https://ningpro.github.io/posts/papermod/papermod-features/</guid>
       <description>Get known about All Features in PaperMod</description>
     </item>
     
