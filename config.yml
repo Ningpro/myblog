@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://ningpro.github.io"
 title: 我是一只小菜鸟
 paginate: 5
 theme: PaperMod
@@ -76,11 +76,9 @@ params:
         Title: "PaperMod"
         Content: >
             Welcome to demo of hugo's theme PaperMod.
-
-            - 这个页面暂时没有想法做什么。
-
-            - 博客原来的文章暂时挪这里了 [小目标](https://0o0.now.sh/).
-
+            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+            - Do give a 🌟 on Github !
+            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
     socialIcons:
         - name: github
           url: "https://github.com/ningpro/"
